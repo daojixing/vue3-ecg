@@ -1,6 +1,4 @@
-# Vue 3 + canvas + Vite  绘制动态心电图
-# vue绘制心电图
-# js动态心电图
+# Vue 3 + canvas + Vite  绘制动态心电图 vue绘制心电图 js动态心电图
 
 项目依赖 npm install
 项目打包 npm run build
